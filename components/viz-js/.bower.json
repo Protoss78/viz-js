@@ -1,0 +1,41 @@
+{
+  "name": "viz-js",
+  "authors": [
+    "Christian Tzolov <christian.tzolov@gmail.com>",
+    "Roman Kaufmann <roman.kaufmann.at@gmail.com"
+  ],
+  "description": "Element providing solution to render Graphviz on the web. Uses the https://github.com/mdaines/viz.js.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "viz-js",
+    "graphviz"
+  ],
+  "main": "viz-js.html",
+  "license": "MIT",
+  "homepage": "https://github.com/tzolov/viz-js/",
+  "ignore": [
+    "/.*",
+    "/tests/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "iron-image": "PolymerElements/iron-image#~1.0.2",
+    "viz.js": "^1.3.0"
+  },
+  "devDependencies": {
+    "web-component-tester": "Polymer/web-component-tester#^2.0.5",
+    "iron-component-page": "PolymerElements/iron-component-page#^1.1.5"
+  },
+  "_release": "a7e16ccc13",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "a7e16ccc137f1d048ca4afbeb7ddec49ae231d91"
+  },
+  "_source": "git://github.com/protoss78/viz-js.git",
+  "_target": "master",
+  "_originalSource": "protoss78/viz-js",
+  "_direct": true
+}
